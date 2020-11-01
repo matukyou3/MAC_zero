@@ -6,8 +6,9 @@
 This script zeroizes the source MAC address and destination MAC address of the pcap.
 
 **Environment**
-python3.6.8
-scapy2.4.3
+
+* python3.6.8
+* scapy2.4.3
 
 **Usage**
 
